@@ -1,0 +1,14 @@
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\bin\Debug\ChatUDP_Aloisi.exe.config
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\bin\Debug\ChatUDP_Aloisi.exe
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\bin\Debug\ChatUDP_Aloisi.pdb
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\obj\Debug\ChatUDP_Aloisi.csprojResolveAssemblyReference.cache
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\obj\Debug\MainWindow.g.cs
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\obj\Debug\App.g.cs
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\obj\Debug\ChatUDP_Aloisi_MarkupCompile.cache
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\obj\Debug\ChatUDP_Aloisi_MarkupCompile.lref
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\obj\Debug\MainWindow.baml
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\obj\Debug\ChatUDP_Aloisi.g.resources
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\obj\Debug\ChatUDP_Aloisi.Properties.Resources.resources
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\obj\Debug\ChatUDP_Aloisi.csproj.GenerateResource.Cache
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\obj\Debug\ChatUDP_Aloisi.exe
+c:\users\giacomo.aloisi\documents\visual studio 2015\Projects\ChatUDP_Aloisi\ChatUDP_Aloisi\obj\Debug\ChatUDP_Aloisi.pdb
